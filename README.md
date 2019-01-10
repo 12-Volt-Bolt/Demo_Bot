@@ -1,4 +1,3 @@
 # Demo_Bot
-This is code for the 2018 demo bot
-
+2018 offseason Demo Bot code
 Please work in the test branch, not the master
